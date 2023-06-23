@@ -1,4 +1,4 @@
-# 40daysofCode
+# 50daysofCode
 
 This repository contains **C++** code that I worked on during my summer break. Over the course of **50 days**, I explored various topics and concepts in C++ programming. Each code file focuses on a specific topic and serves as a learning resource for others interested in C++.
 
@@ -6,16 +6,18 @@ This repository contains **C++** code that I worked on during my summer break. O
 
 The repository covers a wide range of C++ topics, including but not limited to:
 
-- Basics of C++()
+- Basics of C++(datatypes, variables)
 - Control flow (`if-else` statements, loops)
 - Functions and parameter passing
 - Arrays and strings
 - Pointers and dynamic memory allocation
-- Object-oriented programming (classes, objects, inheritance, polymorphism)
-- File input/output
+- Time Complexity analysis
+- Precomputation techniques
+- Hashing
+- Recursion
+- Sorting
+- Number Theory
 - Standard Template Library (STL) containers and algorithms
-- Exception handling
-- Multi-threading
 - And more!
 
 ## Repository Structure
